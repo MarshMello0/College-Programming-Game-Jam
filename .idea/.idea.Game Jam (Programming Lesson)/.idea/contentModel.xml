@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\578516.STUDENT\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Game Jam (Programming Lesson).-1561982776.00" t="ExcludeRecursive" />
+    <e p="J:\Unity Projects\College-Programming-Game-Jam" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Data" t="Include">
+          <e p="Highscore.cs" t="Include" />
+        </e>
+        <e p="editor" t="Include">
+          <e p="HighScoreAsset.cs" t="Include" />
+          <e p="ScriptableObjectUtility.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraMovement.cs" t="Include" />
+          <e p="Destroyer.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Kill.cs" t="Include" />
+          <e p="NextPlatformTrigger.cs" t="Include" />
+          <e p="PlatformSpawner.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="ScoreManager.cs" t="Include" />
+          <e p="ScoreSpawner.cs" t="Include" />
+          <e p="UIUpdate.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Game Jam (Programming Lesson).csproj" t="IncludeRecursive" />
+      <e p="Game Jam (Programming Lesson).Editor.csproj" t="IncludeRecursive" />
+      <e p="Game Jam (Programming Lesson).sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="UnityVS_bin\Debug" t="ExcludeRecursive" />
+        <e p="UnityVS_obj\Debug" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
